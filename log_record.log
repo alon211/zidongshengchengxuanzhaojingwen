@@ -1,0 +1,144 @@
+2018-09-24 21:46:50,508 root         INFO     D:\周日敬拜\2014-10-5.pptx
+2018-09-24 21:46:50,509 root         INFO     D:\周日敬拜\2018-09-30
+2018-09-24 21:46:50,510 comtypes.client DEBUG    PowerPoint.Application -> {91493441-5A91-11CF-8700-00AA0060263B}
+2018-09-24 21:46:50,511 comtypes.client DEBUG    CoCreateInstance({91493441-5A91-11CF-8700-00AA0060263B}, clsctx=None, interface=None)
+2018-09-24 21:46:50,658 comtypes.client DEBUG    GetBestInterface(<POINTER(IUnknown) ptr=0x2531b9b8800 at 253237bd3c8>)
+2018-09-24 21:46:50,669 comtypes.client DEBUG    Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2018-09-24 21:46:50,676 comtypes.client DEBUG    Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2018-09-24 21:46:50,680 comtypes     DEBUG    Release <POINTER(IUnknown) ptr=0x2531c49fb38 at 253237bd5c8>
+2018-09-24 21:46:50,681 comtypes.client DEBUG    Default interface is {91493442-5A91-11CF-8700-00AA0060263B}
+2018-09-24 21:46:50,689 comtypes     DEBUG    Release <POINTER(IUnknown) ptr=0x25322e999d8 at 253237bd6c8>
+2018-09-24 21:46:50,692 comtypes.client._generate DEBUG    GetModule(TLIBATTR(GUID={91493440-5A91-11CF-8700-00AA0060263B}, Version=2.10, LCID=0, FLags=0x8))
+2018-09-24 21:46:51,002 comtypes.client DEBUG    Implements default interface from typeinfo <class 'comtypes.gen._91493440_5A91_11CF_8700_00AA0060263B_0_2_10._Application'>
+2018-09-24 21:46:51,003 comtypes.client DEBUG    Final result is <POINTER(_Application) ptr=0x25322e999d8 at 2532448bcc8>
+2018-09-24 21:46:51,003 comtypes     DEBUG    Release <POINTER(IDispatch) ptr=0x2531c49f278 at 253237bd548>
+2018-09-24 21:46:51,003 comtypes     DEBUG    Release <POINTER(ITypeInfo) ptr=0x2531c49fb38 at 253237bd648>
+2018-09-24 21:46:51,004 comtypes     DEBUG    Release <POINTER(ITypeLib) ptr=0x25322e99428 at 253237bd6c8>
+2018-09-24 21:46:51,004 comtypes     DEBUG    Release <POINTER(IUnknown) ptr=0x2531b9b8800 at 253237bd3c8>
+2018-09-24 21:46:51,140 comtypes.client DEBUG    wrap_outparam(<POINTER(Presentations) ptr=0x2532334da38 at 253237bd3c8>)
+2018-09-24 21:46:52,534 comtypes     DEBUG    Release <POINTER(_Presentation) ptr=0x2531c49fac8 at 253237bd6c8>
+2018-09-24 21:46:52,534 comtypes     DEBUG    Release <POINTER(Presentations) ptr=0x2532334da38 at 253237bd3c8>
+2018-09-24 21:46:56,460 comtypes     DEBUG    Release <POINTER(_Application) ptr=0x25322e999d8 at 2532448bcc8>
+2018-09-24 21:46:56,464 comtypes     DEBUG    Release <POINTER(_Presentation) ptr=0x2531c49fac8 at 253237bd448>
+2018-09-24 21:46:56,468 comtypes     DEBUG    Calling CoUnititialize()
+2018-09-24 21:46:56,469 comtypes     DEBUG    CoUnititialize() done.
+2018-09-24 21:51:53,305 root         INFO     D:\周日敬拜\2014-10-5.pptx
+2018-09-24 21:51:53,305 root         INFO     D:\周日敬拜\2018-09-30
+2018-09-24 21:51:53,307 comtypes.client DEBUG    PowerPoint.Application -> {91493441-5A91-11CF-8700-00AA0060263B}
+2018-09-24 21:51:53,307 comtypes.client DEBUG    CoCreateInstance({91493441-5A91-11CF-8700-00AA0060263B}, clsctx=None, interface=None)
+2018-09-24 21:51:53,518 comtypes.client DEBUG    GetBestInterface(<POINTER(IUnknown) ptr=0x161e3ba95f0 at 161eae10348>)
+2018-09-24 21:51:53,534 comtypes.client DEBUG    Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2018-09-24 21:51:53,535 comtypes.client DEBUG    Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2018-09-24 21:51:53,541 comtypes     DEBUG    Release <POINTER(IUnknown) ptr=0x161e3b19d28 at 161eae10548>
+2018-09-24 21:51:53,542 comtypes.client DEBUG    Default interface is {91493442-5A91-11CF-8700-00AA0060263B}
+2018-09-24 21:51:53,552 comtypes     DEBUG    Release <POINTER(IUnknown) ptr=0x161ea4cb1b8 at 161eae10648>
+2018-09-24 21:51:53,557 comtypes.client._generate DEBUG    GetModule(TLIBATTR(GUID={91493440-5A91-11CF-8700-00AA0060263B}, Version=2.10, LCID=0, FLags=0x8))
+2018-09-24 21:51:53,951 comtypes.client DEBUG    Implements default interface from typeinfo <class 'comtypes.gen._91493440_5A91_11CF_8700_00AA0060263B_0_2_10._Application'>
+2018-09-24 21:51:53,952 comtypes.client DEBUG    Final result is <POINTER(_Application) ptr=0x161ea4cb1b8 at 161ebadec48>
+2018-09-24 21:51:53,952 comtypes     DEBUG    Release <POINTER(IDispatch) ptr=0x161e3b19cb8 at 161eae104c8>
+2018-09-24 21:51:53,952 comtypes     DEBUG    Release <POINTER(ITypeInfo) ptr=0x161e3b19d28 at 161eae105c8>
+2018-09-24 21:51:53,952 comtypes     DEBUG    Release <POINTER(ITypeLib) ptr=0x161ea4cb3e8 at 161eae10648>
+2018-09-24 21:51:53,953 comtypes     DEBUG    Release <POINTER(IUnknown) ptr=0x161e3ba95f0 at 161eae10348>
+2018-09-24 21:51:54,089 comtypes.client DEBUG    wrap_outparam(<POINTER(Presentations) ptr=0x161ea98ac28 at 161eae10348>)
+2018-09-24 21:51:55,284 comtypes     DEBUG    Release <POINTER(_Presentation) ptr=0x161e3b19468 at 161eae10648>
+2018-09-24 21:51:55,284 comtypes     DEBUG    Release <POINTER(Presentations) ptr=0x161ea98ac28 at 161eae10348>
+2018-09-24 21:51:58,634 comtypes     DEBUG    Release <POINTER(_Application) ptr=0x161ea4cb1b8 at 161ebadec48>
+2018-09-24 21:51:58,643 comtypes     DEBUG    Release <POINTER(_Presentation) ptr=0x161e3b19468 at 161eae103c8>
+2018-09-24 21:51:58,650 comtypes     DEBUG    Calling CoUnititialize()
+2018-09-24 21:51:58,652 comtypes     DEBUG    CoUnititialize() done.
+2018-09-24 21:52:58,882 root         INFO     D:\周日敬拜\2014-10-5.pptx
+2018-09-24 21:52:58,883 root         INFO     D:\周日敬拜\2018-09-30
+2018-09-24 21:52:58,884 comtypes.client DEBUG    PowerPoint.Application -> {91493441-5A91-11CF-8700-00AA0060263B}
+2018-09-24 21:52:58,884 comtypes.client DEBUG    CoCreateInstance({91493441-5A91-11CF-8700-00AA0060263B}, clsctx=None, interface=None)
+2018-09-24 21:52:59,023 comtypes.client DEBUG    GetBestInterface(<POINTER(IUnknown) ptr=0x255738dbbf0 at 2557a970348>)
+2018-09-24 21:52:59,033 comtypes.client DEBUG    Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2018-09-24 21:52:59,035 comtypes.client DEBUG    Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2018-09-24 21:52:59,039 comtypes     DEBUG    Release <POINTER(IUnknown) ptr=0x255737d1bb8 at 2557a970548>
+2018-09-24 21:52:59,040 comtypes.client DEBUG    Default interface is {91493442-5A91-11CF-8700-00AA0060263B}
+2018-09-24 21:52:59,048 comtypes     DEBUG    Release <POINTER(IUnknown) ptr=0x2557a161538 at 2557a970648>
+2018-09-24 21:52:59,051 comtypes.client._generate DEBUG    GetModule(TLIBATTR(GUID={91493440-5A91-11CF-8700-00AA0060263B}, Version=2.10, LCID=0, FLags=0x8))
+2018-09-24 21:52:59,312 comtypes.client DEBUG    Implements default interface from typeinfo <class 'comtypes.gen._91493440_5A91_11CF_8700_00AA0060263B_0_2_10._Application'>
+2018-09-24 21:52:59,312 comtypes.client DEBUG    Final result is <POINTER(_Application) ptr=0x2557a161538 at 2557b78ec48>
+2018-09-24 21:52:59,312 comtypes     DEBUG    Release <POINTER(IDispatch) ptr=0x255737d2168 at 2557a9704c8>
+2018-09-24 21:52:59,312 comtypes     DEBUG    Release <POINTER(ITypeInfo) ptr=0x255737d1bb8 at 2557a9705c8>
+2018-09-24 21:52:59,313 comtypes     DEBUG    Release <POINTER(ITypeLib) ptr=0x2557a1618b8 at 2557a970648>
+2018-09-24 21:52:59,313 comtypes     DEBUG    Release <POINTER(IUnknown) ptr=0x255738dbbf0 at 2557a970348>
+2018-09-24 21:52:59,448 comtypes.client DEBUG    wrap_outparam(<POINTER(Presentations) ptr=0x2557a6402b8 at 2557a970348>)
+2018-09-24 21:53:00,437 comtypes     DEBUG    Release <POINTER(_Presentation) ptr=0x255737d2088 at 2557a970648>
+2018-09-24 21:53:00,437 comtypes     DEBUG    Release <POINTER(Presentations) ptr=0x2557a6402b8 at 2557a970348>
+2018-09-24 21:53:04,452 comtypes     DEBUG    Release <POINTER(_Application) ptr=0x2557a161538 at 2557b78ec48>
+2018-09-24 21:53:04,458 comtypes     DEBUG    Release <POINTER(_Presentation) ptr=0x255737d2088 at 2557a9703c8>
+2018-09-24 21:53:04,468 comtypes     DEBUG    Calling CoUnititialize()
+2018-09-24 21:53:04,471 comtypes     DEBUG    CoUnititialize() done.
+2018-09-24 22:08:04,975 root         INFO     D:\周日敬拜\2014-10-5.pptx
+2018-09-24 22:08:04,975 root         INFO     D:\周日敬拜\2018-09-30
+2018-09-24 22:08:04,977 comtypes.client DEBUG    PowerPoint.Application -> {91493441-5A91-11CF-8700-00AA0060263B}
+2018-09-24 22:08:04,978 comtypes.client DEBUG    CoCreateInstance({91493441-5A91-11CF-8700-00AA0060263B}, clsctx=None, interface=None)
+2018-09-24 22:08:05,479 comtypes.client DEBUG    GetBestInterface(<POINTER(IUnknown) ptr=0x17c6a1bc6a0 at 17c71f20348>)
+2018-09-24 22:08:05,499 comtypes.client DEBUG    Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2018-09-24 22:08:05,499 comtypes.client DEBUG    Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2018-09-24 22:08:05,506 comtypes     DEBUG    Release <POINTER(IUnknown) ptr=0x17c6ac270c8 at 17c71f20548>
+2018-09-24 22:08:05,507 comtypes.client DEBUG    Default interface is {91493442-5A91-11CF-8700-00AA0060263B}
+2018-09-24 22:08:05,519 comtypes     DEBUG    Release <POINTER(IUnknown) ptr=0x17c715cea88 at 17c71f20648>
+2018-09-24 22:08:05,524 comtypes.client._generate DEBUG    GetModule(TLIBATTR(GUID={91493440-5A91-11CF-8700-00AA0060263B}, Version=2.10, LCID=0, FLags=0x8))
+2018-09-24 22:08:05,947 comtypes.client DEBUG    Implements default interface from typeinfo <class 'comtypes.gen._91493440_5A91_11CF_8700_00AA0060263B_0_2_10._Application'>
+2018-09-24 22:08:05,947 comtypes.client DEBUG    Final result is <POINTER(_Application) ptr=0x17c715cea88 at 17c72bedc48>
+2018-09-24 22:08:05,948 comtypes     DEBUG    Release <POINTER(IDispatch) ptr=0x17c6ac278a8 at 17c71f204c8>
+2018-09-24 22:08:05,948 comtypes     DEBUG    Release <POINTER(ITypeInfo) ptr=0x17c6ac270c8 at 17c71f205c8>
+2018-09-24 22:08:05,948 comtypes     DEBUG    Release <POINTER(ITypeLib) ptr=0x17c715ceb68 at 17c71f20648>
+2018-09-24 22:08:05,949 comtypes     DEBUG    Release <POINTER(IUnknown) ptr=0x17c6a1bc6a0 at 17c71f20348>
+2018-09-24 22:08:06,127 comtypes.client DEBUG    wrap_outparam(<POINTER(Presentations) ptr=0x17c71a95fc8 at 17c71f20348>)
+2018-09-24 22:08:07,698 comtypes     DEBUG    Release <POINTER(_Presentation) ptr=0x17c6ac26f78 at 17c71f20648>
+2018-09-24 22:08:07,698 comtypes     DEBUG    Release <POINTER(Presentations) ptr=0x17c71a95fc8 at 17c71f20348>
+2018-09-24 22:08:12,072 comtypes     DEBUG    Release <POINTER(_Application) ptr=0x17c715cea88 at 17c72bedc48>
+2018-09-24 22:08:12,076 comtypes     DEBUG    Release <POINTER(_Presentation) ptr=0x17c6ac26f78 at 17c71f203c8>
+2018-09-24 22:08:12,078 comtypes     DEBUG    Calling CoUnititialize()
+2018-09-24 22:08:12,080 comtypes     DEBUG    CoUnititialize() done.
+2018-09-24 22:09:10,282 root         INFO     D:\周日敬拜\2014-10-5.pptx
+2018-09-24 22:09:10,282 root         INFO     D:\周日敬拜\2018-09-30
+2018-09-24 22:09:10,283 comtypes.client DEBUG    PowerPoint.Application -> {91493441-5A91-11CF-8700-00AA0060263B}
+2018-09-24 22:09:10,284 comtypes.client DEBUG    CoCreateInstance({91493441-5A91-11CF-8700-00AA0060263B}, clsctx=None, interface=None)
+2018-09-24 22:09:10,455 comtypes.client DEBUG    GetBestInterface(<POINTER(IUnknown) ptr=0x2d92137a1f0 at 2d928d90348>)
+2018-09-24 22:09:10,467 comtypes.client DEBUG    Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2018-09-24 22:09:10,468 comtypes.client DEBUG    Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2018-09-24 22:09:10,473 comtypes     DEBUG    Release <POINTER(IUnknown) ptr=0x2d921ad62e8 at 2d928d90548>
+2018-09-24 22:09:10,474 comtypes.client DEBUG    Default interface is {91493442-5A91-11CF-8700-00AA0060263B}
+2018-09-24 22:09:10,483 comtypes     DEBUG    Release <POINTER(IUnknown) ptr=0x2d92844fd58 at 2d928d90648>
+2018-09-24 22:09:10,486 comtypes.client._generate DEBUG    GetModule(TLIBATTR(GUID={91493440-5A91-11CF-8700-00AA0060263B}, Version=2.10, LCID=0, FLags=0x8))
+2018-09-24 22:09:10,875 comtypes.client DEBUG    Implements default interface from typeinfo <class 'comtypes.gen._91493440_5A91_11CF_8700_00AA0060263B_0_2_10._Application'>
+2018-09-24 22:09:10,876 comtypes.client DEBUG    Final result is <POINTER(_Application) ptr=0x2d92844fd58 at 2d929a5dc48>
+2018-09-24 22:09:10,876 comtypes     DEBUG    Release <POINTER(IDispatch) ptr=0x2d921ad5fd8 at 2d928d904c8>
+2018-09-24 22:09:10,876 comtypes     DEBUG    Release <POINTER(ITypeInfo) ptr=0x2d921ad62e8 at 2d928d905c8>
+2018-09-24 22:09:10,877 comtypes     DEBUG    Release <POINTER(ITypeLib) ptr=0x2d92844f348 at 2d928d90648>
+2018-09-24 22:09:10,877 comtypes     DEBUG    Release <POINTER(IUnknown) ptr=0x2d92137a1f0 at 2d928d90348>
+2018-09-24 22:09:11,037 comtypes.client DEBUG    wrap_outparam(<POINTER(Presentations) ptr=0x2d921e1b3b8 at 2d928d90348>)
+2018-09-24 22:09:12,213 comtypes     DEBUG    Release <POINTER(_Presentation) ptr=0x2d921ad6048 at 2d928d90648>
+2018-09-24 22:09:12,213 comtypes     DEBUG    Release <POINTER(Presentations) ptr=0x2d921e1b3b8 at 2d928d90348>
+2018-09-24 22:09:15,430 comtypes     DEBUG    Release <POINTER(_Application) ptr=0x2d92844fd58 at 2d929a5dc48>
+2018-09-24 22:09:15,434 comtypes     DEBUG    Release <POINTER(_Presentation) ptr=0x2d921ad6048 at 2d928d903c8>
+2018-09-24 22:09:15,438 comtypes     DEBUG    Calling CoUnititialize()
+2018-09-24 22:09:15,439 comtypes     DEBUG    CoUnititialize() done.
+2018-09-25 19:20:38,964 root         INFO     D:\周日敬拜\2014-10-5.pptx
+2018-09-25 19:20:38,964 root         INFO     D:\周日敬拜\2018-09-30
+2018-09-25 19:20:38,966 comtypes.client DEBUG    PowerPoint.Application -> {91493441-5A91-11CF-8700-00AA0060263B}
+2018-09-25 19:20:38,966 comtypes.client DEBUG    CoCreateInstance({91493441-5A91-11CF-8700-00AA0060263B}, clsctx=None, interface=None)
+2018-09-25 19:20:39,303 comtypes.client DEBUG    GetBestInterface(<POINTER(IUnknown) ptr=0x1114278be70 at 11149960348>)
+2018-09-25 19:20:39,314 comtypes.client DEBUG    Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2018-09-25 19:20:39,314 comtypes.client DEBUG    Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2018-09-25 19:20:39,319 comtypes     DEBUG    Release <POINTER(IUnknown) ptr=0x11142661e68 at 11149960548>
+2018-09-25 19:20:39,320 comtypes.client DEBUG    Default interface is {91493442-5A91-11CF-8700-00AA0060263B}
+2018-09-25 19:20:39,329 comtypes     DEBUG    Release <POINTER(IUnknown) ptr=0x11149013ad8 at 11149960648>
+2018-09-25 19:20:39,333 comtypes.client._generate DEBUG    GetModule(TLIBATTR(GUID={91493440-5A91-11CF-8700-00AA0060263B}, Version=2.10, LCID=0, FLags=0x8))
+2018-09-25 19:20:39,723 comtypes.client DEBUG    Implements default interface from typeinfo <class 'comtypes.gen._91493440_5A91_11CF_8700_00AA0060263B_0_2_10._Application'>
+2018-09-25 19:20:39,723 comtypes.client DEBUG    Final result is <POINTER(_Application) ptr=0x11149013ad8 at 1114a62ec48>
+2018-09-25 19:20:39,723 comtypes     DEBUG    Release <POINTER(IDispatch) ptr=0x111426629c8 at 111499604c8>
+2018-09-25 19:20:39,723 comtypes     DEBUG    Release <POINTER(ITypeInfo) ptr=0x11142661e68 at 111499605c8>
+2018-09-25 19:20:39,724 comtypes     DEBUG    Release <POINTER(ITypeLib) ptr=0x11149013d08 at 11149960648>
+2018-09-25 19:20:39,724 comtypes     DEBUG    Release <POINTER(IUnknown) ptr=0x1114278be70 at 11149960348>
+2018-09-25 19:20:39,880 comtypes.client DEBUG    wrap_outparam(<POINTER(Presentations) ptr=0x111494d9ea8 at 11149960348>)
+2018-09-25 19:20:41,142 comtypes     DEBUG    Release <POINTER(_Presentation) ptr=0x111426626b8 at 11149960648>
+2018-09-25 19:20:41,142 comtypes     DEBUG    Release <POINTER(Presentations) ptr=0x111494d9ea8 at 11149960348>
+2018-09-25 19:20:44,956 comtypes     DEBUG    Release <POINTER(_Application) ptr=0x11149013ad8 at 1114a62ec48>
+2018-09-25 19:20:44,960 comtypes     DEBUG    Release <POINTER(_Presentation) ptr=0x111426626b8 at 111499603c8>
+2018-09-25 19:20:44,964 comtypes     DEBUG    Calling CoUnititialize()
+2018-09-25 19:20:44,969 comtypes     DEBUG    CoUnititialize() done.
