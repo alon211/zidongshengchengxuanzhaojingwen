@@ -26,7 +26,7 @@ def ppt_export_jpg():
                         format='%(asctime)s %(name)-12s %(levelname)-8s %(message)s',
                         handlers=[logging.FileHandler('log_record.log','a+',encoding='utf-8')])
 
-    FILENAME=u'D:\\周日敬拜\\2014-10-5.pptx'
+    FILENAME=os.getcwd()+"\\2014-10-5.pptx"
     log_path=get_logpath(FILENAME)
     logging.info(FILENAME)
     #检查文件是否存在，记录报错
@@ -45,8 +45,8 @@ def ppt_export_jpg():
         ppt=win32.CreateObject('PowerPoint.Application')
         ppt.Visible=True
         deck = ppt.Presentations.Open(FILENAME)
-        # for slide in deck.Slides:
-        #     print(slide.SlideNumber)
+        for slide in deck.Slides:
+            print(slide.SlideNumber)
         # 导出单个ppt
         # deck.Slides[1].Export(os.path.join(OUTPUTFILE[0],'1.jpg'),'jpg',3000,2250)
         deck.Export(OUTPUTFILE,'jpg',3000,2250)
